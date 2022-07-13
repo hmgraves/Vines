@@ -1,0 +1,28 @@
+.NavBar {
+	background-color: #7dce94;
+	position: fixed;
+	display: flex;
+	width: 100%;
+	padding: 25px;
+	align-items: center;
+	justify-content: flex-end;
+}
+
+.nav-title {
+	font-size: 26px;
+	text-align: left;
+	margin-right: auto;
+}
+
+.nav-items {
+	text-align: right;
+	float: right;
+	padding-right: 30px;
+}
+
+.link {
+	margin: 10px;
+	color: yellow;
+	text-decoration: none;
+	cursor: pointer;
+}
